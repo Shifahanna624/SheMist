@@ -1,0 +1,193 @@
+.box1{
+    width: 350px;
+    height: max-content;
+    background-color: white;
+}
+.img1{
+    width: 350px;
+    height: 400px;
+    padding-top: 20px;
+
+}
+.p1{
+    font-size: 20px;
+}
+h1{
+    font-size: large;
+}
+.p0{
+    font-size: large;
+
+}
+
+button
+{
+   background-color: palevioletred;
+}
+
+.box2{
+    width: 350px;
+    height: max-content;
+    background-color: white;
+
+}
+.img2{
+    width: 350px;
+    height: 400px;
+    padding-top: 15px;
+   
+}
+.p1{
+    font-size: 20px;
+}
+h1{
+    font-size: large;
+}
+.p0{
+    font-size: large;
+
+}
+
+button
+{
+    background-color:palevioletred;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}    
+
+
+.box3{
+    width: 350px;
+    height: max-content;
+    background-color: white;
+    
+    
+
+}
+.img3{
+    width: 350px;
+    height: 400px;
+    padding-top: 20px;
+
+}
+.p1{
+    font-size: 20px;
+}
+h1{
+    font-size: large;
+}
+.p0{
+    font-size: large;
+
+}
+
+button
+{
+    background-color:palevioletred;
+}
+
+
+.row1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+
+.box4{
+    width: 350px;
+    height: max-content;
+    background-color: white;
+    
+    
+
+}
+.img4{
+    width: 350px;
+    height: 400px;
+    padding-top: 20px;
+
+}
+.p1{
+    font-size: 20px;
+}
+h1{
+    font-size: large;
+}
+.p0{
+    font-size: large;
+
+}
+
+button
+{
+    background-color:palevioletred;
+}
+
+.box5{
+    width: 350px;
+    height: max-content;
+    background-color: white;
+    
+    
+
+}
+.img5{
+    width: 350px;
+    height: 400px;
+    padding-top: 20px;
+
+}
+.p1{
+    font-size: 20px;
+}
+h1{
+    font-size: large;
+}
+.p0{
+    font-size: large;
+
+}
+
+button
+{
+    background-color: palevioletred;
+}
+
+.box6{
+    width: 350px;
+    height: max-content;
+    background-color: white;
+    
+    
+
+}
+.img6{
+    width: 350px;
+    height: 400px;
+    padding-top: 20px;
+
+}
+.p1{
+    font-size: 20px;
+}
+h1{
+    font-size: large;
+}
+.p0{
+    font-size: large;
+
+}
+
+button
+{
+    background-color:palevioletred;
+}
+
+.row2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
